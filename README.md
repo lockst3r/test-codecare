@@ -4,7 +4,7 @@ Program that will read the standard input line by line and will print lines from
 the input that has any character in it appearing exactly two times.
 
 
-To launch the application click on the link ***[Airport Scoreboard](https://youthful-wiles-0ca6d4.netlify.app/)***
+To launch the application click on the link ***[https://infallible-dubinsky-214f11.netlify.app/](https://infallible-dubinsky-214f11.netlify.app/)***
 
 In the project directory, you can run:
 
