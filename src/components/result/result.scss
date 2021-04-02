@@ -1,0 +1,18 @@
+.result {
+  height: 70vh;
+  &__container {
+    text-align: center;
+  }
+  &__item {
+    list-style-type: none;
+    color: #465457;
+    text-align: left;
+  }
+  &__title {
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 1px;
+    display: inline-block;
+    color: #465457;
+  }
+}
